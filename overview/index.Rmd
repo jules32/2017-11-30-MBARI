@@ -1,0 +1,65 @@
+---
+title: "Software Carpentry Workshop at MBARI"
+subtitle: "Reproducible science with R, RStudio, and GitHub" 
+date: "November 30 — December 1, 2017"
+output: 
+  html_document
+---
+
+**Hosts, instructors and helpers**
+
+- Julie Stewart Lowndes (twitter: @juliesquid | github: @jules32)
+- Jamie Afflerbach (twitter | github: @jafflerbach)
+- Ben Best (twitter @ben_d_best | github: @bbest)
+- Steve Litvin
+- Amanda Whitmire
+- Elliott Hazen
+- Robin Elhai 
+- Heather Welsh
+
+----
+
+> Data scientists, according to interviews and expert estimates, spend from 50 percent to 80 percent of their time mired in the mundane labor of collecting and preparing data, before it can be explored for useful information. - [NYTimes (2014)](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)
+
+# What to expect
+
+This is going to be a fun workshop.  
+
+The plan is to expose you to a lot of great tools that you can have confidence using in your research. You'll be working hands-on and doing the same things on your own computer as we do live on up on the screen. We're going to go through a lot in these two days and it is hard to remember it all at once, but you'll know you can do it and know where to look for help as you go forward with your analyses. Googling is a big part of coding!  
+
+In this workshop we'll be talking about: 
+
+- how to THINK deliberately about data and data analysis. And not just any data; tidy data.
+- how to increase reproducibility in your science
+- how to collaborate more easily with others — most importantly with your future self!
+- how the #rstats community is fantastic. The tools we're using are developed by real people. They are building great stuff and helping people of all skill-levels learn how to use it. 
+
+# Workshop materials 
+
+- [Course Website](https://jules32.github.io/2017-11-30-MBARI/)
+- [Workshop Overview](https://jules32.github.io/2017-11-30-MBARI/overview/) (Julie)
+- [Intro to R and RStudio](http://ohi-science.org/data-science-training/orientation.html) (Julie)
+- [Version Control with Git, GitHub, and RStudio](http://ohi-science.org/data-science-training/rstudio-github.html) (Julie)
+- [Visualization with ggplot2](http://ohi-science.org/data-science-training/viz.html) (Jamie) 
+- [Data wrangling with dplyr](http://ohi-science.org/data-science-training/dplyr.html) (Jamie) 
+- [Data wrangling with tidyr](http://ohi-science.org/data-science-training/tidyr.html) (Jamie) 
+<!---
+- [(R)Markdown and GitHub](https://snacktavish.github.io/2017-08-17-Yosemite/markdown) (Julie) --->
+
+
+
+# Data science workflow
+
+The tidy data workflow will help you think deliberately about data and your analyses. In our workshop we will be focusing **Tidy**, **Transform**, and **Visualise**.
+
+<center><img src="img/r4ds_data-science.png" width="500px"></center>
+
+
+This graphic is from Wickham & Grolemund's [**R for Data Science**](http://r4ds.had.co.nz/), which is a must-read (read it for free online or order a hardcopy from Amazon). This is a way to think deliberately and reproducibly about they way you work with data. 
+
+# By the end of the course
+
+You'll have hands-on experience with importing and wrangling data in OpenRefine and R. In R, you'll have created scripts with analysis and visualizations. You'll have seen how git does version control on these scripts for you (no more 'my_script_v2_Aug_17.R') and can interact with them online on your GitHub account. It's going to be great!  
+
+
+    
