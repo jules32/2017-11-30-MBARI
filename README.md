@@ -6,7 +6,7 @@ Come say hello:
  
 - Instructor: Julie Lowndes and Jamie Afflerbach
 - Host: Steve Litvin, Elliott Hazen, Amanda Whitmire
-- Helper: Robin Elhai
+- Helpers: Robin Elhai, Heather Welsh, and Ben Best
 
 In the workshop we'll use the sticky notes to indicate whether everything is OK (blue) or not (yellow).
 
