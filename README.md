@@ -4,9 +4,9 @@ All the course materials are linked from the course website: [https://jules32.gi
 
 Come say hello: 
  
-- Instructor: Julie Lowndes and Jamie Afflerbach
-- Host: Steve Litvin, Elliott Hazen, Amanda Whitmire
-- Helpers: Robin Elhai, Heather Welsh, and Ben Best
+- Instructors: Julie Lowndes, Jamie Afflerbach
+- Hosts: Steve Litvin, Elliott Hazen, Amanda Whitmire
+- Helpers: Robin Elhai, Heather Welsh, Ben Best
 
 In the workshop we'll use the sticky notes to indicate whether everything is OK (blue) or not (yellow).
 
