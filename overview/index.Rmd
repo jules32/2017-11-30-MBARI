@@ -36,13 +36,20 @@ In this workshop we'll be talking about:
 
 # Workshop materials 
 
-- [Course Website](https://jules32.github.io/2017-11-30-MBARI/)
-- [Workshop Overview](https://jules32.github.io/2017-11-30-MBARI/overview/) (Julie)
-- [Intro to R and RStudio](http://ohi-science.org/data-science-training/orientation.html) (Julie)
-- [Version Control with Git, GitHub, and RStudio](http://ohi-science.org/data-science-training/rstudio-github.html) (Julie)
-- [Visualization with ggplot2](http://ohi-science.org/data-science-training/viz.html) (Jamie) 
-- [Data wrangling with dplyr](http://ohi-science.org/data-science-training/dplyr.html) (Jamie) 
-- [Data wrangling with tidyr](http://ohi-science.org/data-science-training/tidyr.html) (Jamie) 
+[Course Website](https://jules32.github.io/2017-11-30-MBARI/)
+
+|time       |      Day 1|      Day 2|
+|:----------|----------:|----------:|
+|9-10:30    |  [Motivation](https://jules32.github.io/2017-11-30-MBARI/overview/), [Intro to R and RStudio](http://ohi-science.org/data-science-training/orientation) (Julie)|  [Wrangling (tidyr)](http://ohi-science.org/data-science-training/tidyr) (Jamie)|
+|break      |  | |
+|11-12:30   | [RStudio+GitHub+RMarkdown](http://ohi-science.org/data-science-training/rstudio-github.html) (Ben) |  Extended analysis (Ben) |
+|lunch      |  ||
+|13:30-15:00 |  [Visualization (ggplot2)](http://ohi-science.org/data-science-training/viz) (Jamie)| Collaborating with GitHub (Julie) |
+|break      |  |  |
+|15:30-17:00 |  [Wrangling (dplyr)](http://ohi-science.org/data-science-training/dplyr) (Julie)|  Extended analysis 2 (All) |
+
+
+ 
 <!---
 - [(R)Markdown and GitHub](https://snacktavish.github.io/2017-08-17-Yosemite/markdown) (Julie) --->
 
