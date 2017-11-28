@@ -7,7 +7,8 @@ output:
 ---
 --->
 
-## Overview
+<!---
+Overview
 
 **Hosts, instructors and helpers**
 
@@ -22,9 +23,9 @@ output:
 
 ----
 
-> Data scientists, according to interviews and expert estimates, spend from 50 percent to 80 percent of their time mired in the mundane labor of collecting and preparing data, before it can be explored for useful information. - [NYTimes (2014)](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)
+ Data scientists, according to interviews and expert estimates, spend from 50 percent to 80 percent of their time mired in the mundane labor of collecting and preparing data, before it can be explored for useful information. - [NYTimes (2014)](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)
 
-## What to expect
+What to expect
 
 This is going to be a fun workshop.  
 
@@ -36,6 +37,8 @@ In this workshop we'll be talking about:
 - how to increase reproducibility in your science
 - how to collaborate more easily with others — most importantly with your future self!
 - how the #rstats community is fantastic. The tools we're using are developed by real people. They are building great stuff and helping people of all skill-levels learn how to use it. 
+--->
+
 
 ## Workshop schedule 
 
@@ -43,18 +46,15 @@ In this workshop we'll be talking about:
 
 |time       |      Day 1|      Day 2|
 |:----------|----------:|----------:|
-|9-10:30    |  [Motivation](https://jules32.github.io/2017-11-30-MBARI/overview/), [Intro to R and RStudio](http://ohi-science.org/data-science-training/orientation) (Julie)|  [Wrangling (tidyr)](http://ohi-science.org/data-science-training/tidyr) (Jamie)|
+|9-10:30    |  [Motivation](http://ohi-science.org/data-science-training/overview.html), [Intro to R and RStudio](http://ohi-science.org/data-science-training/orientation) (Julie)|  [Wrangling (tidyr)](http://ohi-science.org/data-science-training/tidyr) (Jamie)|
 |break      |  | |
-|11-12:30   | [RStudio+GitHub+RMarkdown](http://ohi-science.org/data-science-training/rstudio-github.html) (Ben) |  Extended analysis (Ben) |
+|11-12:30   | [RStudio+GitHub+RMarkdown](http://ohi-science.org/data-science-training/rstudio-github.html) (Ben) |  [Extended analysis](http://ohi-science.org/data-science-training/programming.html) (Ben) |
 |lunch      |  ||
-|13:30-15:00 |  [Visualization (ggplot2)](http://ohi-science.org/data-science-training/viz) (Jamie)| Collaborating with GitHub (Julie) |
+|13:30-15:00 |  [Visualization (ggplot2)](http://ohi-science.org/data-science-training/viz) (Jamie)| [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html) (Julie) |
 |break      |  |  |
 |15:30-17:00 |  [Wrangling (dplyr)](http://ohi-science.org/data-science-training/dplyr) (Julie)|  Extended analysis 2 (All) |
 
-
- 
 <!---
-- [(R)Markdown and GitHub](https://snacktavish.github.io/2017-08-17-Yosemite/markdown) (Julie) --->
 
 
 
@@ -72,4 +72,4 @@ This graphic is from Wickham & Grolemund's [**R for Data Science**](http://r4ds.
 You'll have hands-on experience with importing and wrangling data in R. You'll have collaboratively created websites displaying analysis and visualizations. It's going to be great!  
 
 
-    
+--->    
