@@ -1,10 +1,13 @@
----
+<!--- 
 title: "Software Carpentry Workshop at MBARI"
 subtitle: "Reproducible science with R, RStudio, and GitHub" 
 date: "November 30 — December 1, 2017"
 output: 
   html_document
 ---
+--->
+
+## Overview
 
 **Hosts, instructors and helpers**
 
@@ -21,7 +24,7 @@ output:
 
 > Data scientists, according to interviews and expert estimates, spend from 50 percent to 80 percent of their time mired in the mundane labor of collecting and preparing data, before it can be explored for useful information. - [NYTimes (2014)](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)
 
-# What to expect
+## What to expect
 
 This is going to be a fun workshop.  
 
@@ -34,7 +37,7 @@ In this workshop we'll be talking about:
 - how to collaborate more easily with others — most importantly with your future self!
 - how the #rstats community is fantastic. The tools we're using are developed by real people. They are building great stuff and helping people of all skill-levels learn how to use it. 
 
-# Workshop materials 
+## Workshop schedule 
 
 [Course Website](https://jules32.github.io/2017-11-30-MBARI/)
 
@@ -55,7 +58,7 @@ In this workshop we'll be talking about:
 
 
 
-# Data science workflow
+## Data science workflow
 
 The tidy data workflow will help you think deliberately about data and your analyses. In our workshop we will be focusing **Tidy**, **Transform**, and **Visualise**.
 
@@ -64,9 +67,9 @@ The tidy data workflow will help you think deliberately about data and your anal
 
 This graphic is from Wickham & Grolemund's [**R for Data Science**](http://r4ds.had.co.nz/), which is a must-read (read it for free online or order a hardcopy from Amazon). This is a way to think deliberately and reproducibly about they way you work with data. 
 
-# By the end of the course
+## By the end of the course
 
-You'll have hands-on experience with importing and wrangling data in OpenRefine and R. In R, you'll have created scripts with analysis and visualizations. You'll have seen how git does version control on these scripts for you (no more 'my_script_v2_Aug_17.R') and can interact with them online on your GitHub account. It's going to be great!  
+You'll have hands-on experience with importing and wrangling data in R. You'll have collaboratively created websites displaying analysis and visualizations. It's going to be great!  
 
 
     
