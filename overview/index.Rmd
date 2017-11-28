@@ -46,13 +46,13 @@ In this workshop we'll be talking about:
 
 |time       |      Day 1|      Day 2|
 |:----------|----------:|----------:|
-|9-10:30    |  [Motivation](http://ohi-science.org/data-science-training/overview.html), [Intro to R and RStudio](http://ohi-science.org/data-science-training/orientation) (Julie)|  [Wrangling (tidyr)](http://ohi-science.org/data-science-training/tidyr) (Jamie)|
+|9-10:30    |  [Motivation](http://ohi-science.org/data-science-training/overview.html), [R, RStudio & RMarkdown](http://ohi-science.org/data-science-training/rstudio.html#rstudio) (Julie)|  [Data wrangling: `tidyr`](http://ohi-science.org/data-science-training/tidyr) (Jamie)|
 |break      |  | |
-|11-12:30   | [RStudio+GitHub+RMarkdown](http://ohi-science.org/data-science-training/rstudio-github.html) (Ben) |  [Extended analysis](http://ohi-science.org/data-science-training/programming.html) (Ben) |
+|11-12:30   | [RStudio+GitHub+RMarkdown](http://ohi-science.org/data-science-training/rstudio-github.html) (Ben) |  [Programming in R ](http://ohi-science.org/data-science-training/programming.html) (Ben) |
 |lunch      |  ||
 |13:30-15:00 |  [Visualization (ggplot2)](http://ohi-science.org/data-science-training/viz) (Jamie)| [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html) (Julie) |
 |break      |  |  |
-|15:30-17:00 |  [Wrangling (dplyr)](http://ohi-science.org/data-science-training/dplyr) (Julie)|  Extended analysis 2 (All) |
+|15:30-17:00 |  [Data wrangling: `dplyr`](http://ohi-science.org/data-science-training/dplyr.html#dplyr) (Julie)|  TBD... (All) |
 
 <!---
 
