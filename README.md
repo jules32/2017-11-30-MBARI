@@ -14,4 +14,6 @@ In the workshop we'll use the sticky notes to indicate whether everything is OK 
 
 WIFI:  MBARI-guest. password: rovauvctd
 
+[Google Doc Link](https://docs.google.com/document/d/1TuWsaA3312CaLWZ2lEG_fAl0Sdk6ApRYvxUSvRhh2lg/edit?usp=sharing)
+
 Toilets are just outside the conference room.
